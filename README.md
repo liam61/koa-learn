@@ -2,7 +2,11 @@
 
 koa新手入门
 
-## 如何使用
+## 一、参考资料
+
+[https://chenshenhai.github.io/koa2-note/note/start/quick.html](https://chenshenhai.github.io/koa2-note/note/start/quick.html)
+
+## 二、如何使用
 
 1. 克隆
 
