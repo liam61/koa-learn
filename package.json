@@ -11,7 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "babel-register": "^6.26.0",
-    "koa": "^2.5.2"
+    "koa": "^2.5.2",
+    "koa-mysql-session": "0.0.2",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^5.0.0"
   },
   "dependencies": {
     "koa-bodyparser": "^4.2.1",
