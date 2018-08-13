@@ -11,7 +11,7 @@ koa新手入门
 1. 克隆
 
 ```bash
-git clone git@github.com:jeffery5461/koaLearn.git
+git clone git@github.com:lawler61/koaLearn.git
 ```
 
 2. 进入目录
